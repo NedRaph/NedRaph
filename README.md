@@ -51,7 +51,7 @@ I'm a passionate data scientist who thrives on transforming raw data into action
 
 ## 🏢 Professional Experience
 
-### ** Data Scientist @ Pathways Technologies** (2023 - Present)
+### **Data Scientist @ Pathways Technologies** (2023 - Present)
 
 ### **Data Analyst Intern @ Kenya National Bureau of Statistics** (2023 - 2023)
 
